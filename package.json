@@ -2,7 +2,8 @@
   "name": "server",
   "version": "1.0.0",
   "engines": {
-    "node": "14.17.4"
+    "node": "14.17.4",
+    "npm": "8.1.4"
   },
   "description": "Social network for developer",
   "main": "server.js",
