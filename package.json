@@ -8,7 +8,6 @@
   "description": "Social network for developer",
   "main": "server.js",
   "scripts": {
-    "postinstall": "npm run build",
     "start": "nodemon server.js"
   },
   "author": "AsaFullStack",
